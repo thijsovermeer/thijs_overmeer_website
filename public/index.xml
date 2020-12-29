@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, Everyone! on Thijs Overmeer</title>
+    <link>https://thijsovermeer.nl/</link>
+    <description>Recent content in Hi, Everyone! on Thijs Overmeer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Dec 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://thijsovermeer.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Regression analysis</title>
+      <link>https://thijsovermeer.nl/post/project-4/</link>
+      <pubDate>Tue, 29 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://thijsovermeer.nl/post/project-4/</guid>
+      <description>Building a notebook in which different algorithms are used to predict the housing prices based on a dataset from Kaggle.
+TODO:
+Create pipeline and use different algorithms.
+Build API to fetch results and get predicions   Link to GitHub Reposistory</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Kubeflow</title>
+      <link>https://thijsovermeer.nl/post/project-2/</link>
+      <pubDate>Sat, 12 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://thijsovermeer.nl/post/project-2/</guid>
+      <description>Building a kubeflow pipeline for predicting the number in the mnist dataset. This project was carried out during my first semester at JADS.
+  </description>
+    </item>
+    
+    <item>
+      <title>Project 1: BAS Trucks</title>
+      <link>https://thijsovermeer.nl/post/project-1/</link>
+      <pubDate>Sat, 12 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://thijsovermeer.nl/post/project-1/</guid>
+      <description>In the first semester, while studying at JADS, we made a dashboard for BAS trucks, which could predict in which certain vehicles were going to be sold. Also using an API, we created a dashboard for BAS Trucks where it could specify vehicle characteristics and based on this the model would predict how likely a vehicle was going to be sold to a specific region.
+Unfortunately, this project&amp;rsquo;s code included sensitive information, thus can not be included here.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Building a convolutional network to classify images.</title>
+      <link>https://thijsovermeer.nl/post/project-3/</link>
+      <pubDate>Fri, 04 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://thijsovermeer.nl/post/project-3/</guid>
+      <description>I build a convolutional neural network, that could classify images into 10 different classes. The thing that I am most proud of is that I managed to visualize the parts where the neural network paid attention to. This can be seen in the next picture.
+  The parts that are red are the parts where the convolutional layer paid attention to. The following code was used for this implementation</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://thijsovermeer.nl/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thijsovermeer.nl/contact/</guid>
+      <description>Contact or follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/thijs-overmeer/   GitHub: https://github.com/thijsovermeer   Gmail: thijsovermeer@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
