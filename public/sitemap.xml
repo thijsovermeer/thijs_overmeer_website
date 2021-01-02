@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>https://thijsovermeer.nl/post/project-3/</loc>
+    <lastmod>2020-12-16T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://thijsovermeer.nl/post/project-2/</loc>
     <lastmod>2020-12-12T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -40,13 +47,6 @@
   <url>
     <loc>https://thijsovermeer.nl/tags/</loc>
     <lastmod>2020-12-12T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://thijsovermeer.nl/post/project-3/</loc>
-    <lastmod>2020-12-04T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
