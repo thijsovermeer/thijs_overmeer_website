@@ -8,18 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://thijsovermeer.nl/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 4: Regression analysis</title>
-      <link>https://thijsovermeer.nl/post/project-4/</link>
-      <pubDate>Tue, 29 Dec 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://thijsovermeer.nl/post/project-4/</guid>
-      <description>Building a notebook in which different algorithms are used to predict the housing prices based on a dataset from Kaggle.
-TODO:
-Create pipeline and use different algorithms.
-Build API to fetch results and get predicions   Link to GitHub Reposistory</description>
-    </item>
-    
-    <item>
       <title>Project 3: Building a convolutional network to classify images.</title>
       <link>https://thijsovermeer.nl/post/project-3/</link>
       <pubDate>Wed, 16 Dec 2020 11:00:59 -0400</pubDate>
@@ -47,6 +35,15 @@ Build API to fetch results and get predicions   Link to GitHub Reposistory</desc
       <guid>https://thijsovermeer.nl/post/project-1/</guid>
       <description>In the first semester, while studying at JADS, we made a dashboard for BAS trucks, which could predict in which certain vehicles were going to be sold. Also using an API, we created a dashboard for BAS Trucks where it could specify vehicle characteristics and based on this the model would predict how likely a vehicle was going to be sold to a specific region.
 Unfortunately, this project&amp;rsquo;s code included sensitive information, thus can not be included here.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Regression analysis</title>
+      <link>https://thijsovermeer.nl/post/project-4/</link>
+      <pubDate>Fri, 03 Jan 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://thijsovermeer.nl/post/project-4/</guid>
+      <description>Building a notebook in which different algorithms are used to predict the housing prices based on a dataset from Kaggle. I used both a random forest model and a keras neural network. In the end, the random forest model worked significantly better than the neural network. This project was aimed to increase my skills in building regression models as I had not done this before. With the help of example Kaggle notebooks, I learned a lot from this project.</description>
     </item>
     
   </channel>
