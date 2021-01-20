@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://thijsovermeer.nl/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Project 5: New programming language, OOP and design patterns. </title>
+      <link>https://thijsovermeer.nl/post/project-5/</link>
+      <pubDate>Tue, 19 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://thijsovermeer.nl/post/project-5/</guid>
+      <description>This project was pretty big, as I wanted to get better at programming. Luckily, my brother could help me out as he has a degree in computer science. From him, I got the suggestion to start learning about TypeScript, object-oriented programming and design patterns to become a better programmer. As I wanted to get a good understanding, I decided to get the book TypeScript quickly as it gives an introduction to TypeScript and its accompanying frameworks, like angular and react.</description>
+    </item>
+    
+    <item>
       <title>Project 4: Regression analysis</title>
       <link>https://thijsovermeer.nl/post/project-4/</link>
       <pubDate>Sat, 02 Jan 2021 11:00:59 -0400</pubDate>
