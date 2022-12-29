@@ -8,16 +8,56 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://thijsovermeer.nl/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 7: Part time job</title>
+      <title>Full-time job at EAISI</title>
+      <link>https://thijsovermeer.nl/post/project-11/</link>
+      <pubDate>Fri, 01 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://thijsovermeer.nl/post/project-11/</guid>
+      <description>As a full-time employee at EAISI (Eindhoven Artificial Intelligence Systems Institute), I have the opportunity to work on a wide range of artificial intelligence (AI) projects and collaborate with industry partners. Located at the Technical University of Eindhoven, EAISI is a hub for AI research and development, and I am constantly learning and growing as a result of my work here.
+One of the most exciting aspects of my job is the opportunity to work on a variety of AI application areas.</description>
+    </item>
+    
+    <item>
+      <title>Master thesis for the KNVB.</title>
+      <link>https://thijsovermeer.nl/post/project-9/</link>
+      <pubDate>Fri, 24 Jun 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://thijsovermeer.nl/post/project-9/</guid>
+      <description>As a data scientist and avid football fan, I was thrilled when I had the opportunity to collaborate with the Royal Dutch Football Association (KNVB) on a project for my master&amp;rsquo;s thesis. The goal of the project was to quantify the danger at a certain point in time in a football match using event and tracking data.
+To accomplish this, we used two main data sources: event data and tracking data.</description>
+    </item>
+    
+    <item>
+      <title>Graduated Cum Laude from JADS&#39;s master</title>
+      <link>https://thijsovermeer.nl/post/project-10/</link>
+      <pubDate>Mon, 20 Jun 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://thijsovermeer.nl/post/project-10/</guid>
+      <description>As I entered my fourth and final semester at the JADS university, I was excited to complete my master&amp;rsquo;s thesis and graduate with a degree in data science. In addition to my thesis, I also had the opportunity to take two additional courses that rounded out my education in data science.
+One of these courses was Data visualization, in which I learned about the various techniques and tools used to create effective visualizations of data.</description>
+    </item>
+    
+    <item>
+      <title>Courses during semester 3 of the JADS master</title>
+      <link>https://thijsovermeer.nl/post/project-8/</link>
+      <pubDate>Tue, 04 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://thijsovermeer.nl/post/project-8/</guid>
+      <description>As I began my third semester at the JADS university, I was excited to dive into my master&amp;rsquo;s thesis and tackle a real-world problem alongside the Royal Dutch Football Association (KNVB). In addition to my thesis, I also had the opportunity to take four other courses that complemented my studies in data science.
+One of these courses was Cybersecurity, in which I learned about the various threats to digital systems and how to protect against them.</description>
+    </item>
+    
+    <item>
+      <title>Part time job at BAS Trucks</title>
       <link>https://thijsovermeer.nl/post/project-7/</link>
       <pubDate>Fri, 27 Aug 2021 10:58:08 -0400</pubDate>
       
       <guid>https://thijsovermeer.nl/post/project-7/</guid>
-      <description>From my first project, I managed to land a part time job at BAS Trucks. In this job I am creating models that can help BAS Trucks predict which vehicles will be sold to which country and for what price. Additionally I have performed several other tasks, which are confidential.</description>
+      <description>From my first project, I managed to land a part time job at BAS Trucks. In this job I created models that can help BAS Trucks predict which vehicles will be sold to which country and for what price. Additionally I performed several other tasks that were confidential for BAS Trucks.</description>
     </item>
     
     <item>
-      <title>Project 6: Courses during semester 2 of the JADS master</title>
+      <title>Courses during semester 2 of the JADS master</title>
       <link>https://thijsovermeer.nl/post/project-6/</link>
       <pubDate>Thu, 03 Jun 2021 11:00:59 -0400</pubDate>
       
@@ -27,7 +67,7 @@ Interactive and Explainable AI desgin; This course focussed on making models tha
     </item>
     
     <item>
-      <title>Project 5: New programming language, OOP and design patterns. </title>
+      <title>New programming language, OOP and design patterns. </title>
       <link>https://thijsovermeer.nl/post/project-5/</link>
       <pubDate>Tue, 19 Jan 2021 11:00:59 -0400</pubDate>
       
@@ -36,7 +76,7 @@ Interactive and Explainable AI desgin; This course focussed on making models tha
     </item>
     
     <item>
-      <title>Project 4: Regression analysis</title>
+      <title>Regression analysis</title>
       <link>https://thijsovermeer.nl/post/project-4/</link>
       <pubDate>Sat, 02 Jan 2021 11:00:59 -0400</pubDate>
       
@@ -45,7 +85,7 @@ Interactive and Explainable AI desgin; This course focussed on making models tha
     </item>
     
     <item>
-      <title>Project 3: Building a convolutional network to classify images.</title>
+      <title>Building a convolutional network to classify images.</title>
       <link>https://thijsovermeer.nl/post/project-3/</link>
       <pubDate>Wed, 16 Dec 2020 11:00:59 -0400</pubDate>
       
@@ -55,7 +95,7 @@ Interactive and Explainable AI desgin; This course focussed on making models tha
     </item>
     
     <item>
-      <title>Project 2: Kubeflow</title>
+      <title>Kubeflow</title>
       <link>https://thijsovermeer.nl/post/project-2/</link>
       <pubDate>Sat, 12 Dec 2020 11:00:59 -0400</pubDate>
       
@@ -65,7 +105,7 @@ Interactive and Explainable AI desgin; This course focussed on making models tha
     </item>
     
     <item>
-      <title>Project 1: BAS Trucks</title>
+      <title>BAS Trucks</title>
       <link>https://thijsovermeer.nl/post/project-1/</link>
       <pubDate>Sat, 12 Dec 2020 10:58:08 -0400</pubDate>
       
